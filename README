@@ -1,3 +1,10 @@
+Classificação de Cancêr de Mama utilizando Aprendizado de Máquina
+
+Teste sobre a capacidade de Redes Adversariais Generativas para geração de dados sintéticos
+
+Para rodar:
 Instale todos os pacotes necessários usando o comando:
 pip install -r requirements.txt
-Para executar rode as células do notebook em ordem
+Exucte as células do notebook em ordem
+
+Integrantes: João César Criscolo, João Pedro Bazzotti e Henrique Borges
