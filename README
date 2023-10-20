@@ -1,0 +1,3 @@
+Instale todos os pacotes necessários usando o comando:
+pip install -r requirements.txt
+Para executar rode as células do notebook em ordem
